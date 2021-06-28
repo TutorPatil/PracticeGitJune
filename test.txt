@@ -1,1 +1,2 @@
 This is a sample file form git
+Adding second line from local
